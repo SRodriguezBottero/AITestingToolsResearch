@@ -1,5 +1,5 @@
 📘 **Overview**
-This repository documents an investigation into various AI testing tools, their features, strengths, and potential use cases. The goal is to evaluate these tools to identify the best solutions for ensuring the reliability, performance, and robustness of AI systems in testing.
+This repository documents an investigation into various AI testing tools, their features, strengths, and potential use cases. The goal is to evaluate these tools to identify the best solutions for ensuring the reliability, performance, and robustness of AI integrated in testing tools.
 
 🚀 **Objectives**
 - Explore the landscape of available AI testing tools.
